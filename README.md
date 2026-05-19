@@ -1,4 +1,4 @@
-# CloudStack Pro Pricing
+# CloudStack-Pricing
 
 A modern and fully responsive cloud pricing section built with Tailwind CSS.  
 This project focuses on utility-first styling, responsive layouts, interactive UI elements, and clean typography while maintaining a professional SaaS-inspired design system.
